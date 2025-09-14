@@ -19,7 +19,7 @@ A comprehensive Python library for calculating areas of geometric shapes with ru
 ✅ Production-ready code with proper documentation
 
 ## Installation
-Simply copy the geometry_shapes.py file to your project directory.
+Simply copy the `geometry_shapes.py` file to your project directory.
 
 ## Quick Start
 
