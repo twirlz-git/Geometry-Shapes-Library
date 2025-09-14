@@ -3,12 +3,19 @@ A comprehensive Python library for calculating areas of geometric shapes with ru
 
 ## Features
 ✅ Circle area calculation based on radius using π * r²
+
 ✅ Triangle area calculation using Heron's formula based on three sides
+
 ✅ Right triangle detection for triangles using Pythagorean theorem
+
 ✅ Runtime polymorphism - calculate areas without knowing shape types at compile time
+
 ✅ Easy extensibility for adding new shapes
+
 ✅ Comprehensive error handling and input validation
+
 ✅ Full unit test coverage with 25+ test cases
+
 ✅ Production-ready code with proper documentation
 
 ## Quick Start
